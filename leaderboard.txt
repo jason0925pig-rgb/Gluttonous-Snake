@@ -1,0 +1,7 @@
+Zhuang 3860 8
+Tommy 2320 47
+Michael 1950 25
+Aryan 900 9
+Flower 810 7
+Moon 760 11
+Sun 200 5

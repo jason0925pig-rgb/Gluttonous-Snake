@@ -2,6 +2,9 @@
 
 A terminal-based arcade game where you guide a snake-like robot to rescue people in a dangerous minefield. Written in C using `ncurses`.
 
+
+https://github.com/user-attachments/assets/c5770147-7637-4d30-bdad-eddd57408c04
+
 ## 🎮 Game Description
 
 Navigate through a grid filled with hidden dangers. Your mission is to rescue people ('P') while avoiding mines ('X'), walls, and obstacles ('#'). 
